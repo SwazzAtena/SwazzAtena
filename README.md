@@ -45,3 +45,7 @@ and Computers.İ Dont Have A Professional Job Career
 
  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=SwazzAtena&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwazzAtena&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+  
+  
+  <img src="![BozKurt](https://user-images.githubusercontent.com/68772806/219625659-aacf5171-6994-40a9-a5a8-ba67600c6ef1.jpg)
+" width="auto">
