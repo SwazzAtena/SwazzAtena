@@ -16,7 +16,7 @@ and Computers.İ Dont Have A Professional Job Career
 
 
 [instagram]: https://www.instagram.com/omerb.ayramm
-[linkedin]: https://www.linkedin.com/in/%C3%B6mer-tu%C4%9Frul-bayram-204b59234/
+[linkedin]: https://www.linkedin.com/in/ömer-tuğrul-bayram-204b59234/
 [gmail]: mailto:omertugrulbayram@gmail.com
 <br />
 ### 🔧 Yazılım Dilleri:
